@@ -23,11 +23,6 @@ def mainTab():
     root.resizable(0,0)
     root.config(bg="#ffd500")
 
-    
-
-    
-
-
 
     def Cars():
         mainTabLabel.destroy()
